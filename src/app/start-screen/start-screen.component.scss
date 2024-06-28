@@ -1,4 +1,4 @@
-.start-screen{
+.start-screen {
     background-color: #404040;
     width: 100vw;
     height: 100vh;
@@ -16,12 +16,12 @@
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 50px;
+    bottom: 80px;
     display: flex;
     justify-content: center;
 
     >img{
-        width: 40vw;
+        width: 36vw;
         height: auto;
 
         &:hover{
